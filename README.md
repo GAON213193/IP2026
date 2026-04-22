@@ -3,3 +3,7 @@
 # Homework 1
 
 [![OpenCV Demo](https://img.youtube.com/vi/uN353Y1Lzdg/hqdefault.jpg)](https://www.youtube.com/watch?v=uN353Y1Lzdg)
+
+# Homework 2
+
+[![OpenCV Demo](https://img.youtube.com/vi/ywRuAYOMx3s/hqdefault.jpg)](https://www.youtube.com/watch?v=ywRuAYOMx3s)
