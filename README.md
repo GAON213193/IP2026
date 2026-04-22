@@ -11,3 +11,7 @@
 # Homework 3
 
 [![OpenCV Demo](https://img.youtube.com/vi/PHfz_-bYNkA/hqdefault.jpg)](https://www.youtube.com/watch?v=PHfz_-bYNkA)
+
+# Homework 4
+
+[![OpenCV Demo](https://img.youtube.com/vi/tV4AUNQtRwY/hqdefault.jpg)](https://www.youtube.com/watch?v=tV4AUNQtRwY)
